@@ -15,7 +15,7 @@ using namespace force;
 
 int main(int argc, char** argv)
 {
- cout << "*** Planck units ***" << endl;
+ cout << "*** Planck units (2019 NIST CODATA values) ***" << endl;
  auto Pl = meter_t(1.616255e-35);
  cout << "Planck length: " << Pl << endl;
  auto Pt = second_t(5.391247e-44);
