@@ -1,0 +1,3 @@
+echo "Patience...this could take some time to compile..." 
+g++ -o fields fields.cpp
+./fields
