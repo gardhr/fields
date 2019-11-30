@@ -1,4 +1,4 @@
-*** Planck units (2019 NIST CODATA values) ***
+*** Planck units (NIST 2019 CODATA values) ***
 
 
 Planck length: 1.61626e-35 m
