@@ -40,6 +40,7 @@ int main(int argc, char** argv)
 
  auto Lm = Pl * Pm;
  cout << "Length-mass constant: " << Lm << endl;
+
 /*
   Artifact introduced by the definition of the ampere
 
