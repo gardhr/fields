@@ -20,6 +20,9 @@ int main(int argc, char** argv)
  cout << "Planck mass: " << Pm << endl;
  auto Pc = coulomb_t(1.8755468e-18);
  cout << "Planck charge: " << Pc << endl;
+
+ cout << endl;
+
  cout << "*** Related constants ***" << endl;
  auto Cv = Pl / Pt;
  cout << "Speed of light: " << Cv << endl;
