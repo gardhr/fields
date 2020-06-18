@@ -51,7 +51,7 @@ int main(int argc, char** argv)
  cout << "Length-mass (with scaling removed): " << Pc2_ << endl;
 
  auto Pc2 = Pc * Pc;
- cout << "Planck charge squared: " << Pc2 << " (Same as above!)" << endl;
+ cout << "Planck charge squared: " << Pc2 << " (Compare with above!)" << endl;
 
  auto Cf = Lm / (Pt * Pt);
  cout << "Planck force: " << Cf << endl;
